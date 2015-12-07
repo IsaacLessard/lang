@@ -1,5 +1,4 @@
 # lang
 
 
-
-Work in progress.
+Project for a translator app
